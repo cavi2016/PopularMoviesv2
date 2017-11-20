@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="action_sort_popularity">Popular</string>
+
+    <string name="action_sort_top_rated">Top Rated</string>
+
+    <string name="action_share">share</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again.
+    </string>
+
+    <string name="popular_sort">popular</string>
+    <string name="top_rated_sort">top_rated</string>
+    <string name="favorite_sort">favorite</string>
+
+    <string name="content_authority">com.example.android.popularmovies</string>
+    <string name="text_plain">text/plain</string>
+    <string name="watch_trailer">Watch the trailer!</string>
+    <string name="movie_trailer">Movie Trailer</string>
+    <string name="share_via">Share via</string>
+
+</resources>
