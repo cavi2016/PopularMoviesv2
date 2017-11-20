@@ -31,7 +31,7 @@ public final class NetworkUtils {
     private static final String MOVIES_BASE_URL = "http://api.themoviedb.org/3/";
     private static final String SORT_POPULAR = "movie/popular";
     private static final String SORT_TOP_RATED = "movie/top_rated";
-    private static final String MOVIES_API = "aa15a6e50a9c6acb653b2f03dab54c31";
+    private static final String MOVIES_API = "";
     private static final String YOUTUBE_BASE_URL = "https://www.youtube.com/watch?v=";
 
     final static String API_PARAM = "api_key";
